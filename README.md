@@ -1,8 +1,8 @@
-`synctools` provides a Pool structure that limit
+`synctools` provides a Pool structure that limits
 the concurrency of goroutines.
 
 `Pool` wraps a `sync.WaitGroup` and uses a channels to limit the number of
-goroutines to be run.
+goroutines to be run in parallel.
 
 Example :
 
