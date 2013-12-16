@@ -24,7 +24,7 @@ func main() {
     "http://www.somestupidname.com/",
     "http://github.com/",
     "http://bitbucket.org/",
-    "http://http://sigkill.tumblr.com/",
+    "http://sigkill.tumblr.com/",
   }
 
   pool := synctools.NewPool(3)
