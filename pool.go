@@ -1,4 +1,5 @@
-// Additions to go sync package
+// Additions to go sync package. it provides a Pool structure that limit
+// the concurrency of goroutines.
 package synctools
 
 import "sync"
