@@ -43,3 +43,5 @@ func main() {
 }
 
 ```
+
+[![GoDoc](https://godoc.org/github.com/gwik/synctools?status.png)](https://godoc.org/github.com/gwik/synctools)
